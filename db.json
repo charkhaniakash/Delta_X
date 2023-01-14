@@ -8,8 +8,8 @@
       "track": "$orries",
       "year": "2003",
       "img_src": "./songs_images/$orries_Cover (front)_e.jpg",
-      "src": "./songs/$orries.mp3",
-      "ratings": "⭐⭐⭐⭐⭐"
+      "src": "./songs/$orries.mp3"
+      
     },
     {
       "id": 2,
@@ -19,8 +19,8 @@
       "track": "1",
       "year": "2014",
       "img_src": "./songs_images/[oops]_Cover (front)_e.jpg",
-      "src": "./songs/[oops].mp3",
-      "ratings": "⭐⭐⭐⭐⭐"
+      "src": "./songs/[oops].mp3"
+      
     },
     {
       "id": 3,
@@ -30,8 +30,8 @@
       "track": "12",
       "year": "2011",
       "img_src": "./songs_images/5 32pm_Cover (front)_e.jpg",
-      "src": "./songs/5 32pm.mp3",
-      "ratings": "⭐⭐⭐⭐⭐"
+      "src": "./songs/5 32pm.mp3"
+      
     },
     {
       "id": 4,
@@ -41,8 +41,8 @@
       "track": "3",
       "year": "2013",
       "img_src": "./songs_images/88 Keys_Cover (front)_e.jpg",
-      "src": "./songs/88 Keys.mp3",
-      "ratings": "⭐⭐⭐⭐⭐"
+      "src": "./songs/88 Keys.mp3"
+      
     },
     {
       "id": 5,
@@ -52,8 +52,8 @@
       "track": "15",
       "year": "2016",
       "img_src": "./songs_images/Affection_Cover (front)_e.jpg ",
-      "src": "./songs/Affection.mp3",
-      "ratings": "⭐⭐⭐⭐⭐"
+      "src": "./songs/Affection.mp3"
+      
     },
     {
       "id": 6,
@@ -63,8 +63,8 @@
       "track": "4",
       "year": "2016",
       "img_src": "./songs_images/Again_Cover (front)_e.jpg",
-      "src": "./songs/Again.mp3",
-      "ratings": "⭐⭐⭐⭐⭐"
+      "src": "./songs/Again.mp3"
+      
     },
     {
       "id": 7,
@@ -74,8 +74,8 @@
       "track": "Love Wounds",
       "year": "2020",
       "img_src": "./songs_images/Alone and Lonely_Cover (front)_e.jpg",
-      "src": "./songs/Alone and Lonely.mp3",
-      "ratings": "⭐⭐⭐⭐⭐"
+      "src": "./songs/Alone and Lonely.mp3"
+      
     },
     {
       "id": 8,
@@ -85,8 +85,8 @@
       "track": "1",
       "year": "1999",
       "img_src": "./songs_images/Baby You're Worth It_Cover (front)_e.jpg",
-      "src": "./songs/Baby You're Worth It.mp3",
-      "ratings": "⭐⭐⭐⭐⭐"
+      "src": "./songs/Baby You're Worth It.mp3"
+      
     },
     {
       "id": 9,
@@ -96,8 +96,8 @@
       "track": "4",
       "year": "2012",
       "img_src": "./songs_images/Beauty_Cover (front)_e.jpg",
-      "src": "./songs/Beauty.mp3",
-      "ratings": "⭐⭐⭐⭐⭐"
+      "src": "./songs/Beauty.mp3"
+      
     },
     {
       "id": 10,
@@ -107,8 +107,8 @@
       "track": " LofiCentral",
       "year": "2000",
       "img_src": "./songs_images/Better Than He Can_Cover (front)_e.jpg",
-      "src": "./songs/Better Than He Can.mp3",
-      "ratings": "⭐⭐⭐⭐⭐"
+      "src": "./songs/Better Than He Can.mp3"
+      
     },
     {
       "id": 11,
@@ -118,8 +118,8 @@
       "track": "1",
       "year": "2000",
       "img_src": "./songs_images/Break My Heart Again_Cover (front)_e.jpg",
-      "src": "./songs/Break My Heart Again.mp3",
-      "ratings": "⭐⭐⭐⭐⭐"
+      "src": "./songs/Break My Heart Again.mp3"
+      
     },
     {
       "id": 12,
@@ -129,8 +129,8 @@
       "track": "15",
       "year": "2002",
       "img_src": "./songs_images/Brightness_Cover (front)_e.jpg",
-      "src": "./songs/Brightness.mp3",
-      "ratings": "⭐⭐⭐⭐⭐"
+      "src": "./songs/Brightness.mp3"
+      
     },
     {
       "id": 13,
@@ -140,8 +140,8 @@
       "track": "1",
       "year": "2013",
       "img_src": "./songs_images/Call me_Cover (front)_e.jpg",
-      "src": "./songs/Call me.mp3",
-      "ratings": "⭐⭐⭐⭐⭐"
+      "src": "./songs/Call me.mp3"
+      
     },
     {
       "id": 14,
@@ -151,56 +151,7 @@
       "track": "Can We Kiss Forever?",
       "year": "2006",
       "img_src": "./songs_images/Can We Kiss Forever _Cover (front)_e.jpg",
-      "src": "./songs/Can We Kiss Forever .mp3",
-      "ratings": "⭐⭐⭐⭐⭐"
-    },
-    {
-      "title": "",
-      "year": "",
-      "artist": "",
-      "id": 15
-    },
-    {
-      "title": "",
-      "year": "",
-      "artist": "",
-      "id": 16
-    },
-    {
-      "title": "$orries",
-      "year": "2003",
-      "artist": "Peachy!",
-      "id": 17
-    },
-    {
-      "title": "jfkljsodkfjved",
-      "year": "sdifjsjdfvxsovdjs",
-      "artist": "dsvef",
-      "id": 18
-    },
-    {
-      "title": "[oops]",
-      "year": "2014",
-      "artist": "potsu",
-      "id": 19
-    },
-    {
-      "title": "",
-      "year": "",
-      "artist": "",
-      "id": 20
-    },
-    {
-      "title": "Spectra",
-      "year": "2001",
-      "artist": "Alan walker",
-      "id": 21
-    },
-    {
-      "title": "",
-      "year": "",
-      "artist": "",
-      "id": 22
+      "src": "./songs/Can We Kiss Forever .mp3"
     }
   ]
 }
