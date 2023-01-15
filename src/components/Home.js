@@ -6,9 +6,6 @@ import Rating from '@mui/material/Rating';
 import Stack from '@mui/material/Stack';
 
 
-
-
-
 const Home = () => {
   const [lists, setLists] = useState([])
   useEffect(() => {
@@ -48,7 +45,7 @@ const Home = () => {
               <td>{item.artist}</td>
               <td>
                 <Stack spacing={1}>
-                <Rating name="size-large" defaultValue={2} size="large" />
+                <Rating name="size-large" defaultValue={0.5} size="large" />
                 </Stack>
               </td>
             </tr>

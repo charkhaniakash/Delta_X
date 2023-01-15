@@ -9,7 +9,6 @@
       "year": "2003",
       "img_src": "./songs_images/$orries_Cover (front)_e.jpg",
       "src": "./songs/$orries.mp3"
-      
     },
     {
       "id": 2,
@@ -20,7 +19,6 @@
       "year": "2014",
       "img_src": "./songs_images/[oops]_Cover (front)_e.jpg",
       "src": "./songs/[oops].mp3"
-      
     },
     {
       "id": 3,
@@ -31,7 +29,6 @@
       "year": "2011",
       "img_src": "./songs_images/5 32pm_Cover (front)_e.jpg",
       "src": "./songs/5 32pm.mp3"
-      
     },
     {
       "id": 4,
@@ -42,7 +39,6 @@
       "year": "2013",
       "img_src": "./songs_images/88 Keys_Cover (front)_e.jpg",
       "src": "./songs/88 Keys.mp3"
-      
     },
     {
       "id": 5,
@@ -53,7 +49,6 @@
       "year": "2016",
       "img_src": "./songs_images/Affection_Cover (front)_e.jpg ",
       "src": "./songs/Affection.mp3"
-      
     },
     {
       "id": 6,
@@ -64,7 +59,6 @@
       "year": "2016",
       "img_src": "./songs_images/Again_Cover (front)_e.jpg",
       "src": "./songs/Again.mp3"
-      
     },
     {
       "id": 7,
@@ -75,7 +69,6 @@
       "year": "2020",
       "img_src": "./songs_images/Alone and Lonely_Cover (front)_e.jpg",
       "src": "./songs/Alone and Lonely.mp3"
-      
     },
     {
       "id": 8,
@@ -86,7 +79,6 @@
       "year": "1999",
       "img_src": "./songs_images/Baby You're Worth It_Cover (front)_e.jpg",
       "src": "./songs/Baby You're Worth It.mp3"
-      
     },
     {
       "id": 9,
@@ -97,7 +89,6 @@
       "year": "2012",
       "img_src": "./songs_images/Beauty_Cover (front)_e.jpg",
       "src": "./songs/Beauty.mp3"
-      
     },
     {
       "id": 10,
@@ -108,7 +99,6 @@
       "year": "2000",
       "img_src": "./songs_images/Better Than He Can_Cover (front)_e.jpg",
       "src": "./songs/Better Than He Can.mp3"
-      
     },
     {
       "id": 11,
@@ -119,7 +109,6 @@
       "year": "2000",
       "img_src": "./songs_images/Break My Heart Again_Cover (front)_e.jpg",
       "src": "./songs/Break My Heart Again.mp3"
-      
     },
     {
       "id": 12,
@@ -130,7 +119,6 @@
       "year": "2002",
       "img_src": "./songs_images/Brightness_Cover (front)_e.jpg",
       "src": "./songs/Brightness.mp3"
-      
     },
     {
       "id": 13,
@@ -141,7 +129,6 @@
       "year": "2013",
       "img_src": "./songs_images/Call me_Cover (front)_e.jpg",
       "src": "./songs/Call me.mp3"
-      
     },
     {
       "id": 14,
@@ -152,6 +139,42 @@
       "year": "2006",
       "img_src": "./songs_images/Can We Kiss Forever _Cover (front)_e.jpg",
       "src": "./songs/Can We Kiss Forever .mp3"
+    },
+    {
+      "title": "Can We Kiss Forever?",
+      "year": "2006",
+      "artist": "Adriana Proenza",
+      "id": 15
+    },
+    {
+      "title": "",
+      "year": "",
+      "artist": "",
+      "id": 16
+    },
+    {
+      "title": "akash",
+      "year": "esfd",
+      "artist": "ad",
+      "id": 17
+    },
+    {
+      "title": "Spectra",
+      "year": "2023",
+      "artist": "hi there",
+      "id": 18
+    },
+    {
+      "title": "counting stars",
+      "year": "2009",
+      "artist": "how are you",
+      "id": 19
+    },
+    {
+      "title": "",
+      "year": "",
+      "artist": "",
+      "id": 20
     }
   ]
 }

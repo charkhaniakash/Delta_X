@@ -11,6 +11,13 @@ const Addsongs = () => {
     artist: ""
   });
 
+
+
+  const togglePopup = () => {
+    setIsOpen(!isOpen);
+  }
+
+
   const { title, year, artist } = lists;
   const onInputChange = e => {
     setLists({ ...lists, [e.target.name]: e.target.value });
@@ -20,6 +27,8 @@ const Addsongs = () => {
     setLists('')
     navigate("/");
   }
+  const [isOpen, setIsOpen] = useState(false);
+
 
   const [file, setFile] = useState();
   function handleChange(e) {
@@ -35,8 +44,16 @@ const Addsongs = () => {
   return (
     <div className="container">
       <div className="w-75 mx-auto shadow p-5">
-        <h3 className='col-12 col-sm-6' style={{ color: "Blue", textAlign: 'left' }}>Add a Songs</h3>
-        <Nav.Link style={{ color: "black", textAlign: 'right' }} href="/addartist">Add artist</Nav.Link>
+        <h3 className='col-12 col-sm-6' style={{ color: "#4e4e4c", textAlign: 'left' }}>Add a Songs</h3>
+
+        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+    
+          
+          <Nav.Link type="button" style={{ backgroundColor: "#c0c0be" }} onClick={togglePopup} className="btn btn-primary me-md-2" href="/addartist">Add artist</Nav.Link>
+          {/* <button class="btn btn-primary me-md-2" type="button">Button</button>
+          <button class="btn btn-primary" type="button">Button</button> */}
+        </div>
+        {/* <Nav.Link style={{ color: "black", textAlign: 'right' }} href="/addartist">Add artist</Nav.Link> */}
         <form onSubmit={e => onSubmit(e)}>
           <div className="form-group">
             <input
@@ -68,13 +85,13 @@ const Addsongs = () => {
             <input
               type="artist"
               className="form-control form-control-lg"
-              placeholder="search for an artist"
+              placeholder="give artist name"
               name="artist"
               value={artist}
               onChange={e => onInputChange(e)}
             />
           </div>
-          <div className="container" style={{gap:"10px"}}>
+          <div className="container" style={{ gap: "10px" }}>
             <button style={{ color: "black", width: "100px", marginTop: "10px", textAlign: 'center' }} >Add User</button>
             <button onClick={handleCancel} style={{ color: "black", width: "100px", textAlign: 'center' }} >Cancel</button>
           </div>
@@ -86,3 +103,7 @@ const Addsongs = () => {
 };
 
 export default Addsongs;
+
+
+
+
